@@ -1,0 +1,6 @@
+﻿  main.cpp
+  stablo.cpp
+C:\Users\doki\Downloads\za dorijana\za dorijana\C++\dz2\dz2\dz2\stablo.cpp(311,28): warning C4804: '/': unsafe use of type 'bool' in operation
+  Generating Code...
+C:\Users\doki\Downloads\za dorijana\za dorijana\C++\dz2\dz2\dz2\stablo.cpp(320): warning C4715: 'Stablo::dodaj': not all control paths return a value
+  dz2.vcxproj -> C:\Users\doki\Downloads\za dorijana\za dorijana\C++\dz2\dz2\Debug\dz2.exe
